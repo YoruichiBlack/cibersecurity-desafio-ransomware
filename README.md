@@ -7,8 +7,8 @@
 - Scripts encrypter.py e decrypter.py
 
 ## Scripts
-- encrypter.py: ´´´   ´´´
-- decrypter.py: ´´´   ´´´
+- encrypter.py: ´´´  Script responsável por criptografar o arquivo "texto.txt" e incluir em seu nome ".ransomwaretroll". ´´´
+- decrypter.py: ´´´  Script responsável por descriptografar o arquivo "texto.txt.ransomwaretroll" e retomar o seu nome de origem ´´´
 
 ### Executando o Ransomware no Kali Linux
 
