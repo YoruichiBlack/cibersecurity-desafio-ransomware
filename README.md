@@ -24,5 +24,7 @@
 
 ![Alt text](./projeto-de-ransomware.png "Criptografia e Descriptografia dos Dados")
 
+### Conclusão
 
+Esse desafio prático foi uma oportunidade incrível para aprofundar meu entendimento sobre os mecanismos de criptografia e descriptografia de dados, além de explorar como essas técnicas são aplicadas em cenários reais de segurança cibernética.
 
