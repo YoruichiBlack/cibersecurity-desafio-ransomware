@@ -22,7 +22,7 @@
 
 ### Resultados
 
-![Alt text](./projeto-de-phishing.png "Resultados de Acesso")
+![Alt text](./projeto-de-ransomware.png "Criptografia e Descriptografia dos Dados")
 
 
 
